@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=260&color=0:031419,45:0A2A2E,100:031419&text=LARAIB%20ZAFAR&fontColor=E6FFFA&fontSize=54&fontAlignY=36&font=Fira%20Code&animation=fadeIn&desc=CS%20STUDENT%20%E2%86%92%20AI%20ENGINEER%20IN%20TRAINING&descAlignY=60&descSize=16&descColor=5EEAD4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7F00FF,35:E100FF,70:FF0080,100:FF8C00&text=LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=54&fontAlignY=36&font=Fira%20Code&animation=twinkling&desc=CS%20STUDENT%20%E2%86%92%20AI%20ENGINEER%20IN%20TRAINING&descAlignY=60&descSize=16&descColor=FFE1F7"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=820&height=55&lines=learning+how+things+actually+work+%E2%86%92;building+systems%2C+not+just+demos+%E2%86%92;AI+%2B+automation+%2B+engineering+%E2%86%92;one+project+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=FF0080&center=true&vCenter=true&width=820&height=55&lines=learning+how+things+actually+work+%E2%86%92;building+systems%2C+not+just+demos+%E2%86%92;AI+%2B+automation+%2B+engineering+%E2%86%92;one+project+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
 
 <br>
 
@@ -116,12 +116,15 @@ philosophy: >
 <tr>
 <td width="50%" valign="top">
 
-#### ⚙️ &nbsp;Bulk Description Generator
+#### 🎯 &nbsp;CareerForge PK
 
-A LangGraph-based pipeline that generates product descriptions at scale and logs structured results into Excel — built for traceable, debuggable agent runs.
+An AI-powered career tool designed around a problem I care about: helping students turn scattered skills into something employers can actually evaluate.
+
+**Exploring**
+`GitHub Parsing` `Portfolio Analysis` `LinkedIn` `Cold Emails` `Action Plans`
 
 **Stack**
-`LangGraph` `Groq API` `LangSmith` `openpyxl`
+`LangGraph` `n8n` `ChromaDB` `Groq` `Gemini`
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +136,7 @@ A practice tool designed around making data-structure problem solving more inter
 **Stack**
 `JavaScript`
 
-[↗ View Project](https://github.com/laraib-builds/DSA-Friend)
+[↗ View Project](YOUR_DSA_FRIEND_URL)
 
 </td>
 </tr>
@@ -303,7 +306,7 @@ LEARN &nbsp;⟶&nbsp; BUILD &nbsp;⟶&nbsp; BREAK &nbsp;⟶&nbsp; DEBUG &nbsp;�
 <!--                          FOOTER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=140&section=footer&color=0:031419,45:0A2A2E,100:031419&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF8C00,35:FF0080,70:E100FF,100:7F00FF&animation=twinkling"/>
 
 <div align="center">
 
