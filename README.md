@@ -298,7 +298,7 @@ LEARN &nbsp;⟶&nbsp; BUILD &nbsp;⟶&nbsp; BREAK &nbsp;⟶&nbsp; DEBUG &nbsp;�
 
 <div align="center">
 
-🛼 <b>Skating</b> &nbsp;•&nbsp; 🎨 <b>Sketching & Painting</b> &nbsp;•&nbsp; 🎬 <b>Superhero Movies</b> &nbsp;•&nbsp; 📺 <b>Pakistani Dramas</b> &nbsp;•&nbsp; ✍️ <b>Writing</b>
+🛼 <b>Skating</b> &nbsp;•&nbsp; 🎨 <b>Sketching & Painting</b> &nbsp;•&nbsp; 🎬 <b> Movies & series</b> &nbsp;•&nbsp; 📕 <b>Reading </b> &nbsp;•&nbsp; ✍️ <b>Writing</b>
 
 </div>
 
