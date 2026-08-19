@@ -1,156 +1,453 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         HERO                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-  <!-- TOP HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=7c3aed&height=200&section=header&text=Laraib%20Zafar&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=240&color=0:0B0617,50:2D1B4E,100:08060D&text=LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=52&fontAlignY=38&font=JetBrains%20Mono&animation=fadeIn&desc=CS%20STUDENT%20%E2%86%92%20AI%20ENGINEER%20IN%20TRAINING&descAlignY=58&descSize=17&descColor=C4B5FD"/>
+</p>
 
-  <p align="center">
-    <b>CS Undergraduate @ Lahore, Pakistan 🇵🇰 | Aspiring AI & Automation Engineer</b>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=learning+how+things+actually+work+%E2%86%92;building+systems%2C+not+just+demos+%E2%86%92;AI+%2B+automation+%2B+engineering+%E2%86%92;one+project+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
+</p>
 
-  <!-- QUICK BADGES -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI_Engineering-7c3aed?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Language-Python_%7C_C%2B%2B-06b6d4?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Core-Systems_%26_Security-f59e0b?style=for-the-badge&logoColor=white" />
-  </p>
+<p align="center">
+  <a href="https://github.com/laraib-builds">
+    <img src="https://img.shields.io/badge/GITHUB-0B0617?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B0617?style=flat-square&logo=linkedin&logoColor=A78BFA"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zeeen0597@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0B0617?style=flat-square&logo=gmail&logoColor=A78BFA"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=laraib-builds&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS"/>
+</p>
 
-<br />
+<br>
 
-<!-- TERMINAL / ABOUT SECTION -->
-<table width="100%">
-  <tr>
-    <td>
-      <pre>
-<b>~/about</b>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       INTRO                                       -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+</p>
+
+<h2 align="center">01 / WHO I AM</h2>
+
+<p align="center">
+  <i>
+    "I don't want to just learn how to use intelligent systems.<br>
+    I want to understand how to build them."
+  </i>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### `~/about`
+
+```text
 NAME        Laraib Zafar
 ROLE        CS Undergraduate
 LOCATION    Lahore, Pakistan 🇵🇰
 
-<b>DIRECTION</b>
+DIRECTION
     AI Engineering
     Automation
     Systems Thinking
     AI + Security
 
-<b>APPROACH</b>
+APPROACH
     Learn → Build → Break
              ↓
         Understand
              ↓
           Repeat
-      </pre>
-    </td>
-  </tr>
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `~/mindset`
+
+```text
+I am currently focused on
+
+▸ becoming stronger in Python
+▸ closing my DSA gaps
+▸ understanding AI fundamentals
+▸ building with APIs & LLMs
+▸ experimenting with automation
+▸ exploring AI security
+
+I care more about
+understanding than collecting
+technologies.
+```
+
+</td>
+</tr>
 </table>
 
-<br />
+<br>
 
-<!-- MINDSET / PHILOSOPHY -->
-<blockquote align="left">
-  <h3>🧠 ~/mindset</h3>
-  <p><b>I am currently focused on:</b></p>
-  <ul>
-    <li>▸ Becoming stronger in <b>Python</b></li>
-    <li>▸ Closing my <b>DSA gaps</b></li>
-    <li>▸ Understanding <b>AI fundamentals</b></li>
-    <li>▸ Building with <b>APIs & LLMs</b></li>
-    <li>▸ Experimenting with <b>automation</b></li>
-    <li>▸ Exploring <b>AI security</b></li>
-  </ul>
-  <hr />
-  <p><i>"I care more about understanding than collecting technologies.<br />
-  The destination is AI engineering.<br />
-  The current mission is becoming the kind of programmer who can actually build there."</i></p>
-</blockquote>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    CURRENT TRAJECTORY                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<br />
-
-<!-- TECH STACK & CORE DOMAINS -->
-<h3>🛠️ Tech Stack & Domain Focus</h3>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐍 Python & Data</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-      <ul>
-        <li>Data Handling (NumPy · Pandas)</li>
-        <li>APIs & Workflow Automation</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧩 DSA & Fundamentals</h4>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      </p>
-      <ul>
-        <li>Problem Solving & Data Structures</li>
-        <li>Clean C++ Implementation</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Systems & LLMs</h4>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-      </p>
-      <ul>
-        <li>LLMs, Embeddings & RAG</li>
-        <li>Agents & Tool Integration</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 AI Security & Defense</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Security-Red_Teaming-ef4444?style=flat-square&logo=security&logoColor=white" />
-      </p>
-      <ul>
-        <li>Prompt Injection Defense</li>
-        <li>Red Teaming AI Models</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<!-- ACTIVE PIPELINE / INTERESTS -->
-<h3>⚙️ Exploration Pipeline</h3>
+<h2 align="center">02 / THE TRAJECTORY</h2>
 
 <p align="center">
-  <code>MCP DEBUGGER</code> &nbsp;→&nbsp; 
-  <code>AGENTIC RAG</code> &nbsp;→&nbsp; 
-  <code>SELF-GRADING SYSTEMS</code> &nbsp;→&nbsp; 
-  <code>ANOMALY TRIAGE</code>
+  <i>Where the pieces are coming together.</i>
 </p>
 
-<table border="0" align="center">
-  <tr align="center">
-    <td width="25%">🔌<br /><b>MCP</b><br /><sub>tooling & debugging</sub></td>
-    <td width="25%">🧠<br /><b>AGENTS</b><br /><sub>multi-hop reasoning</sub></td>
-    <td width="25%">🔎<br /><b>RAG</b><br /><sub>retrieval systems</sub></td>
-    <td width="25%">🛡️<br /><b>SECURITY</b><br /><sub>AI-aware defense</sub></td>
-  </tr>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=C%2B%2B%20%20%E2%86%92%20%20PYTHON%20%20%E2%86%92%20%20DATA%20%20%E2%86%92%20%20APIs%20%20%E2%86%92%20%20AI%20%20%E2%86%92%20%20ENGINEERING&fontSize=18&fontColor=A78BFA&font=JetBrains%20Mono&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DSA%20%2B%20SYSTEMS%20THINKING%20%2B%20AI%20%2B%20AUTOMATION&fontSize=14&fontColor=8B8B9A&font=JetBrains%20Mono&animation=fadeIn"/>
+</p>
+
+<br>
+
+> **The destination is AI engineering.
+> The current mission is becoming the kind of programmer who can actually build there.**
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       PROJECTS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">03 / THINGS I'VE BUILT</h2>
+
+<p align="center">
+  <i>Projects are where the theory gets tested.</i>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎯 CareerForge PK <img src="https://img.shields.io/badge/IN%20PROGRESS-8B5CF6?style=flat-square"/></h3>
+
+<p>
+An AI-powered career tool designed around a problem I care about:
+helping students turn scattered skills into something employers can actually evaluate.
+Actively being built out right now.
+</p>
+
+<p>
+<b>Exploring</b><br>
+<code>GitHub Parsing</code>
+<code>Portfolio Analysis</code><br>
+<code>LinkedIn</code>
+<code>Cold Emails</code>
+<code>Action Plans</code>
+</p>
+
+<p>
+<b>Stack</b><br>
+<code>LangGraph</code>
+<code>n8n</code>
+<code>ChromaDB</code>
+<code>Groq</code>
+<code>Gemini</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧩 DSA Friend</h3>
+
+<p>
+A practice tool designed around making
+data-structure problem solving more interactive.
+</p>
+
+<br>
+
+<p>
+<b>Stack</b><br>
+<code>JavaScript</code>
+</p>
+
+<br>
+
+<p>
+<a href="YOUR_DSA_FRIEND_URL">↗ View Project</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📚 Local RAG Pipeline</h3>
+
+<p>
+A fully local retrieval-augmented generation pipeline.
+While building it, I debugged a retrieval-threshold issue that taught me
+more than simply following a tutorial would have.
+</p>
+
+<p>
+<code>ChromaDB</code>
+<code>SentenceTransformers</code>
+<code>Ollama</code>
+<code>Streamlit</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Security-Aware Reply Agent</h3>
+
+<p>
+An experimental agent scaffold exploring
+layered defenses against prompt injection.
+</p>
+
+<br>
+
+<p>
+<code>Python</code>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>⚙️ Bulk Description Generator</h3>
+
+<p>
+A LangGraph-based pipeline that generates product descriptions at scale
+and logs structured results straight into Excel — built around traceable,
+debuggable agent runs rather than one-off scripts.
+</p>
+
+<p>
+<b>Stack</b><br>
+<code>LangGraph</code>
+<code>Groq API</code>
+<code>LangSmith</code>
+<code>openpyxl</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
 </table>
 
-<br />
+<br>
 
-<!-- ENGINEERING LOOP DIAGRAM -->
-<h3>🔄 The Engineering Loop</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+</p>
 
-<div align="center">
-<pre>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         NEXT                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">04 / CURRENT EXPERIMENTS</h2>
+
+<p align="center">
+  <i>Things currently taking shape.</i>
+</p>
+
+<br>
+
+<p align="center">
+
+`MCP DEBUGGER`
+  →  
+`AGENTIC RAG`
+  →  
+`SELF-GRADING SYSTEMS`
+  →  
+`ANOMALY TRIAGE`
+
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+🔌<br> <b>MCP</b><br> <sub>tooling & debugging</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🧠<br> <b>AGENTS</b><br> <sub>multi-hop reasoning</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🔎<br> <b>RAG</b><br> <sub>retrieval systems</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🛡️<br> <b>SECURITY</b><br> <sub>AI-aware defense</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        LEARNING                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">05 / CURRENTLY LEARNING</h2>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🐍
+
+**PYTHON**
+
+Data handling<br>
+NumPy · Pandas<br>
+APIs · Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**DSA**
+
+C++<br>
+Problem solving<br>
+Implementation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+LLMs<br>
+RAG · Embeddings<br>
+Agents · Tool use
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**SECURITY**
+
+Prompt injection<br>
+Red teaming<br>
+AI security
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=LEARNING%20IN%20PUBLIC%20%E2%80%A2%20BUILDING%20IN%20PUBLIC%20%E2%80%A2%20IMPROVING%20IN%20PUBLIC&fontSize=14&fontColor=8B8B9A&font=JetBrains%20Mono&animation=twinkling"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         TOOLKIT                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">06 / TOOLKIT</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,js,streamlit&theme=dark" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-17102B?style=flat-square&logo=langchain&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/LangSmith-17102B?style=flat-square&logo=langchain&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Ollama-17102B?style=flat-square&logo=ollama&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/ChromaDB-17102B?style=flat-square&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/n8n-17102B?style=flat-square&logo=n8n&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Groq-17102B?style=flat-square&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Gemini-17102B?style=flat-square&logo=googlegemini&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/openpyxl-17102B?style=flat-square&logo=python&logoColor=A78BFA"/>
+
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                     LEARNING PHILOSOPHY                           -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">07 / HOW I LEARN</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=READ+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND;NOT+JUST+%22MAKE+IT+WORK%22;UNDERSTAND+WHY+IT+WORKS" alt="Learning philosophy"/>
+</p>
+
+<br>
+
+```text
         ┌──────────┐
         │   LEARN  │
         └────┬─────┘
@@ -175,28 +472,65 @@ LOCATION    Lahore, Pakistan 🇵🇰
         │UNDERSTAND│
         └────┬─────┘
              │
-             └──────────────→ <b>BUILD BETTER</b>
-</pre>
-</div>
-
-<br />
-
-<!-- GITHUB STATS CARDS -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true" height="150" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+             └──────────────→ BUILD BETTER
+```
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        PERSONAL                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">08 / BEYOND THE TERMINAL</h2>
+
 <p align="center">
-  <sub>Built by Laraib Zafar · Driven by Systems Thinking</sub>
+  <i>
+    Because a person is more than their tech stack.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  🛼 <b>Skating</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎨 <b>Sketching & Painting</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎬 <b>Superhero Movies</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📺 <b>Pakistani Dramas</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ✍️ <b>Writing</b>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          FOOTER                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:08060D,50:17102B,100:0B0617&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laraib-builds">
+    <img src="https://img.shields.io/badge/GITHUB-17102B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-17102B?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zeeen0597@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-17102B?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Still learning. Still building. Still becoming.</sub>
+</p>
+
+<p align="center">
+  <b>— Laraib Zafar —</b>
 </p>
