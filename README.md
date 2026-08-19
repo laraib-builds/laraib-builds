@@ -116,15 +116,12 @@ philosophy: >
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 &nbsp;CareerForge PK
+#### ⚙️ &nbsp;Bulk Description Generator
 
-An AI-powered career tool designed around a problem I care about: helping students turn scattered skills into something employers can actually evaluate.
-
-**Exploring**
-`GitHub Parsing` `Portfolio Analysis` `LinkedIn` `Cold Emails` `Action Plans`
+A LangGraph-based pipeline that generates product descriptions at scale and logs structured results into Excel — built for traceable, debuggable agent runs.
 
 **Stack**
-`LangGraph` `n8n` `ChromaDB` `Groq` `Gemini`
+`LangGraph` `Groq API` `LangSmith` `openpyxl`
 
 </td>
 <td width="50%" valign="top">
@@ -136,7 +133,7 @@ A practice tool designed around making data-structure problem solving more inter
 **Stack**
 `JavaScript`
 
-[↗ View Project](YOUR_DSA_FRIEND_URL)
+[↗ View Project](https://github.com/laraib-builds/DSA-Friend)
 
 </td>
 </tr>
