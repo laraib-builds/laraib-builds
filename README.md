@@ -1,82 +1,519 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header&width=100" width="100%"/> <br/> <h1 align="center">Laraib Zafar</h1> <h4 align="center"><code>CS Student</code> &nbsp;→&nbsp; <code>AI Engineer in Training</code></h4> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1500&color=8B8FA3&center=true&vCenter=true&width=600&lines=Learning+by+building;Understanding+systems%2C+not+just+using+them;Building+in+public" alt="Typing SVG"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/laraib-zafar-98a804413"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a> &nbsp; <a href="mailto:zeeen0597@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/></a> </p> <br/>
-Where I'm Headed
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-I'm a Computer Science undergraduate building my way toward AI engineering through projects, experimentation, and deliberate learning.
+<!--                         HERO                                       -->
 
-C++ / DSA
-Python
-Data + APIs + Git
-AI / LLMs
-AI Engineering+ Automation
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-The goal isn't to collect technologies. It's to understand them well enough to build with them.
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B0617,50:17102B,100:08060D&text=LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=52&fontAlignY=38&font=JetBrains%20Mono&animation=twinkling&desc=CS%20STUDENT%20%E2%86%92%20AI%20ENGINEER%20IN%20TRAINING&descAlignY=58&descSize=17&descColor=C4B5FD"/>
+</p>
 
-<br/>
-Things I've Built
-<table> <tr> <td width="33%" valign="top">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=learning+how+things+actually+work+%E2%86%92;building+systems%2C+not+just+demos+%E2%86%92;AI+%2B+automation+%2B+engineering+%E2%86%92;one+project+at+a+time+%F0%9F%9A%80" alt="Typing animation"/>
+</p>
 
-DSA Friend A practice tool built around making data-structure problem solving more interactive.
+<p align="center">
+  <a href="https://github.com/laraib-builds">
+    <img src="https://img.shields.io/badge/GITHUB-0B0617?style=flat-square&logo=github&logoColor=FFFFFF"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0B0617?style=flat-square&logo=linkedin&logoColor=A78BFA"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zeeen0597@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0B0617?style=flat-square&logo=gmail&logoColor=A78BFA"/>
+  </a>
+</p>
 
-<sub>JavaScript HTML CSS</sub>
+<br>
 
-</td> <td width="33%" valign="top">
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-Local RAG Pipeline A fully local retrieval-augmented generation pipeline. Debugged a retrieval-threshold issue along the way.
+<!--                       INTRO                                       -->
 
-<sub>ChromaDB SentenceTransformers Ollama Streamlit</sub>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-</td> <td width="33%" valign="top">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+</p>
 
-Security-Aware Reply Agent An experimental agent scaffold exploring prompt-injection resistance through a layered defense structure.
+<h2 align="center">01 / WHO I AM</h2>
 
-<sub>Python</sub>
+<p align="center">
+  <i>
+    "I don't want to just learn how to use intelligent systems.<br>
+    I want to understand how to build them."
+  </i>
+</p>
 
-</td> </tr> </table> <br/>
-What's Next
-MCP Debugger
-Agentic / Multi-hop RAG
-Self-Grading Retrieval
-Network-Anomaly Triage
+<br>
 
-The common thread: building systems that can reason, retrieve, use tools, and fail more intelligently.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-<br/>
-What I'm Learning
-<table> <tr> <td width="50%" valign="top">
+### `~/about`
 
-Python Data handling · NumPy / Pandas · File handling · APIs · Automation
+```text
+NAME        Laraib Zafar
+ROLE        CS Undergraduate
+LOCATION    Lahore, Pakistan 🇵🇰
 
-</td> <td width="50%" valign="top">
+DIRECTION
+    AI Engineering
+    Automation
+    Systems Thinking
+    AI + Security
 
-AI LLM fundamentals · RAG · Embeddings · Agents & tool use · AI workflows
+APPROACH
+    Learn → Build → Break
+             ↓
+        Understand
+             ↓
+          Repeat
+```
 
-</td> </tr> <tr> <td valign="top">
+</td>
 
-Computer Science DSA in C++ · Problem solving · OOP · Systems thinking
+<td width="50%" valign="top">
 
-</td> <td valign="top">
+### `~/mindset`
 
-Security Prompt injection · AI red-teaming · Security-aware agents · Cybersecurity fundamentals
+```text
+I am currently focused on
 
-</td> </tr> </table> <br/>
-Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=8B8FA3"/> <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B"/> <img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=8B8FA3"/> <img src="https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=6C63FF"/> </p> <br/>
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=laraib-builds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=8B8FA3" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=laraib-builds&theme=tokyonight&hide_border=true&background=0d1117&ring=6C63FF&fire=6C63FF" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraib-builds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF" width="48%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=laraib-builds&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF" width="48%"/> </p> <br/>
-How I Work
-Learn a concept
-Build something
-Break something
-Debug it
-Understand why
+▸ becoming stronger in Python
+▸ closing my DSA gaps
+▸ understanding AI fundamentals
+▸ building with APIs & LLMs
+▸ experimenting with automation
+▸ exploring AI security
 
-Moving from "I understand this when someone explains it" to "I can implement it myself and explain why it works."
+I care more about
+understanding than collecting
+technologies.
+```
 
-<br/>
-Right Now
-	
-Location	Lahore, Pakistan
-Focus	AI Engineering · Python · DSA · Automation · AI + Security
-Building	Projects over tutorials
-Philosophy	Learn → Build → Break → Understand → Repeat
-<br/> <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=footer&width=100" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                    CURRENT TRAJECTORY                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">02 / THE TRAJECTORY</h2>
+
+<p align="center">
+  <i>Where the pieces are coming together.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=C%2B%2B%20%20%E2%86%92%20%20PYTHON%20%20%E2%86%92%20%20DATA%20%20%E2%86%92%20%20APIs%20%20%E2%86%92%20%20AI%20%20%E2%86%92%20%20ENGINEERING&fontSize=18&fontColor=A78BFA&font=JetBrains%20Mono&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DSA%20%2B%20SYSTEMS%20THINKING%20%2B%20AI%20%2B%20AUTOMATION&fontSize=14&fontColor=8B8B9A&font=JetBrains%20Mono&animation=fadeIn"/>
+</p>
+
+<br>
+
+> **The destination is AI engineering.
+> The current mission is becoming the kind of programmer who can actually build there.**
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                       PROJECTS                                    -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">03 / THINGS I'VE BUILT</h2>
+
+<p align="center">
+  <i>Projects are where the theory gets tested.</i>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎯 CareerForge PK</h3>
+
+<p>
+An AI-powered career tool designed around a problem I care about:
+helping students turn scattered skills into something employers can actually evaluate.
+</p>
+
+<p>
+<b>Exploring</b><br>
+<code>GitHub Parsing</code>
+<code>Portfolio Analysis</code><br>
+<code>LinkedIn</code>
+<code>Cold Emails</code>
+<code>Action Plans</code>
+</p>
+
+<p>
+<b>Stack</b><br>
+<code>LangGraph</code>
+<code>n8n</code>
+<code>ChromaDB</code>
+<code>Groq</code>
+<code>Gemini</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧩 DSA Friend</h3>
+
+<p>
+A practice tool designed around making
+data-structure problem solving more interactive.
+</p>
+
+<br>
+
+<p>
+<b>Stack</b><br>
+<code>JavaScript</code>
+</p>
+
+<br>
+
+<p>
+<a href="YOUR_DSA_FRIEND_URL">↗ View Project</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📚 Local RAG Pipeline</h3>
+
+<p>
+A fully local retrieval-augmented generation pipeline.
+While building it, I debugged a retrieval-threshold issue that taught me
+more than simply following a tutorial would have.
+</p>
+
+<p>
+<code>ChromaDB</code>
+<code>SentenceTransformers</code>
+<code>Ollama</code>
+<code>Streamlit</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ Security-Aware Reply Agent</h3>
+
+<p>
+An experimental agent scaffold exploring
+layered defenses against prompt injection.
+</p>
+
+<br>
+
+<p>
+<code>Python</code>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         NEXT                                      -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">04 / CURRENT EXPERIMENTS</h2>
+
+<p align="center">
+  <i>Things currently taking shape.</i>
+</p>
+
+<br>
+
+<p align="center">
+
+`MCP DEBUGGER`
+  →  
+`AGENTIC RAG`
+  →  
+`SELF-GRADING SYSTEMS`
+  →  
+`ANOMALY TRIAGE`
+
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+
+🔌<br> <b>MCP</b><br> <sub>tooling & debugging</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🧠<br> <b>AGENTS</b><br> <sub>multi-hop reasoning</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🔎<br> <b>RAG</b><br> <sub>retrieval systems</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+
+🛡️<br> <b>SECURITY</b><br> <sub>AI-aware defense</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                        LEARNING                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">05 / CURRENTLY LEARNING</h2>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🐍
+
+**PYTHON**
+
+Data handling<br>
+NumPy · Pandas<br>
+APIs · Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**DSA**
+
+C++<br>
+Problem solving<br>
+Implementation
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI**
+
+LLMs<br>
+RAG · Embeddings<br>
+Agents · Tool use
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**SECURITY**
+
+Prompt injection<br>
+Red teaming<br>
+AI security
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=LEARNING%20IN%20PUBLIC%20%E2%80%A2%20BUILDING%20IN%20PUBLIC%20%E2%80%A2%20IMPROVING%20IN%20PUBLIC&fontSize=14&fontColor=8B8B9A&font=JetBrains%20Mono&animation=twinkling"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                         TOOLKIT                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">06 / TOOLKIT</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,js,streamlit&theme=dark" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangGraph-17102B?style=flat-square&logo=langchain&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Ollama-17102B?style=flat-square&logo=ollama&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/ChromaDB-17102B?style=flat-square&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/n8n-17102B?style=flat-square&logo=n8n&logoColor=A78BFA"/>
+
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                     LEARNING PHILOSOPHY                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">07 / HOW I LEARN</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=READ+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND;NOT+JUST+%22MAKE+IT+WORK%22;UNDERSTAND+WHY+IT+WORKS" alt="Learning philosophy"/>
+</p>
+
+<br>
+
+```text
+        ┌──────────┐
+        │   LEARN  │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │  BUILD   │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │  BREAK   │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │  DEBUG   │
+        └────┬─────┘
+             │
+             ▼
+        ┌──────────┐
+        │UNDERSTAND│
+        └────┬─────┘
+             │
+             └──────────────→ BUILD BETTER
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                        PERSONAL                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">08 / BEYOND THE TERMINAL</h2>
+
+<p align="center">
+  <i>
+    Because a person is more than their tech stack.
+  </i>
+</p>
+
+<br>
+
+<p align="center">
+  🛼 <b>Skating</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎨 <b>Sketching & Painting</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🎬 <b>Superhero Movies</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📺 <b>Pakistani Dramas</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ✍️ <b>Writing</b>
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<!--                          FOOTER                                   -->
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:08060D,50:17102B,100:0B0617&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/laraib-builds">
+    <img src="https://img.shields.io/badge/GITHUB-17102B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-17102B?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zeeen0597@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-17102B?style=for-the-badge&logo=gmail&logoColor=A78BFA"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Still learning. Still building. Still becoming.</sub>
+</p>
+
+<p align="center">
+  <b>— Laraib Zafar —</b>
+</p>
