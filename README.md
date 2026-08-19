@@ -256,7 +256,7 @@ AI security
 
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode&theme=dark" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=fastapi,js,streamlit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,html,streamlit&theme=dark" />
 <br><br>
 <img src="https://img.shields.io/badge/LangGraph-031419?style=flat-square&logo=langchain&logoColor=2DD4BF"/>
 <img src="https://img.shields.io/badge/Ollama-031419?style=flat-square&logo=ollama&logoColor=2DD4BF"/>
