@@ -116,6 +116,16 @@ philosophy: >
 <tr>
 <td width="50%" valign="top">
 
+#### ⚙️ &nbsp;Bulk Description Generator
+
+A LangGraph-based pipeline that generates product descriptions at scale and logs structured results into Excel — built for traceable, debuggable agent runs.
+
+**Stack**
+`LangGraph` `Groq API` `LangSmith` `openpyxl`
+
+</td>
+<td width="50%" valign="top">
+
 #### 🧩 &nbsp;DSA Friend
 
 A practice tool designed around making data-structure problem solving more interactive.
@@ -123,7 +133,7 @@ A practice tool designed around making data-structure problem solving more inter
 **Stack**
 `JavaScript`
 
-[↗ View Project](YOUR_DSA_FRIEND_URL)
+[↗ View Project](https://github.com/laraib-builds/DSA-Friend)
 
 </td>
 </tr>
@@ -137,18 +147,6 @@ A fully local retrieval-augmented generation pipeline. While building it, I debu
 `ChromaDB` `SentenceTransformers` `Ollama` `Streamlit`
 
 </td>
-
-<td width="50%" valign="top">
-
-#### ⚙️ &nbsp;Bulk Description Generator
-
-A LangGraph-based pipeline that generates product descriptions at scale and logs structured results into Excel — built for traceable, debuggable agent runs.
-
-**Stack**
-`LangGraph` `Groq API` `LangSmith` `openpyxl`
-
-</td>
-
 <td width="50%" valign="top">
 
 #### 🛡️ &nbsp;Security-Aware Reply Agent
