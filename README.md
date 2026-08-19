@@ -1,6 +1,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════ --> <!-- HERO --> <!-- ═══════════════════════════════════════════════════════════════════ --> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0F172A,50:0E7490,100:0F172A&text=LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=52&fontAlignY=38&font=JetBrains%20Mono&animation=fadeIn&desc=CS%20STUDENT%20%E2%86%92%20AI%20ENGINEER%20IN%20TRAINING&descAlignY=58&descSize=17&descColor=67E8F9"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&height=60&lines=learning+how+things+actually+work+%E2%86%92;building+systems%2C+not+just+demos+%E2%86%92;AI+%2B+automation+%2B+engineering+%E2%86%92;one+project+at+a+time+%F0%9F%9A%80" alt="Typing animation"/> </p> <p align="center"> <a href="https://github.com/laraib-builds"> <img src="https://img.shields.io/badge/GITHUB-0F172A?style=flat-square&logo=github&logoColor=FFFFFF"/> </a> &nbsp; <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=flat-square&logo=linkedin&logoColor=22D3EE"/> </a> &nbsp; <a href="mailto:zeeen0597@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-0F172A?style=flat-square&logo=gmail&logoColor=22D3EE"/> </a> </p> <br> <!-- ═══════════════════════════════════════════════════════════════════ --> <!-- INTRO --> <!-- ═══════════════════════════════════════════════════════════════════ --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0E7490"/> </p> <h2 align="center">01 / WHO I AM</h2> <p align="center"> <i> "I don't want to just learn how to use intelligent systems.<br> I want to understand how to build them." </i> </p> <br> <table align="center"> <tr> <td width="50%" valign="top">
+<br>
+
+<table align="center"> <tr> <td width="50%" valign="top">
+
 ~/about
-text
 NAME        Laraib Zafar
 ROLE        CS Undergraduate
 LOCATION    Lahore, Pakistan 🇵🇰
@@ -17,6 +20,28 @@ APPROACH
         Understand
              ↓
           Repeat
+
+</td>
+
+<td width="50%" valign="top">
+
+~/mindset
+I am currently focused on
+
+▸ becoming stronger in Python
+▸ closing my DSA gaps
+▸ understanding AI fundamentals
+▸ building with APIs & LLMs
+▸ experimenting with automation
+▸ exploring AI security
+
+I care more about
+understanding than collecting
+technologies.
+
+</td> </tr> </table>
+
+<br>
 </td> <td width="50%" valign="top">
 ~/mindset
 text
