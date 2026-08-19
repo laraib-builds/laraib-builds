@@ -116,19 +116,6 @@ philosophy: >
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 &nbsp;CareerForge PK
-
-An AI-powered career tool designed around a problem I care about: helping students turn scattered skills into something employers can actually evaluate.
-
-**Exploring**
-`GitHub Parsing` `Portfolio Analysis` `LinkedIn` `Cold Emails` `Action Plans`
-
-**Stack**
-`LangGraph` `n8n` `ChromaDB` `Groq` `Gemini`
-
-</td>
-<td width="50%" valign="top">
-
 #### 🧩 &nbsp;DSA Friend
 
 A practice tool designed around making data-structure problem solving more interactive.
@@ -150,6 +137,18 @@ A fully local retrieval-augmented generation pipeline. While building it, I debu
 `ChromaDB` `SentenceTransformers` `Ollama` `Streamlit`
 
 </td>
+
+<td width="50%" valign="top">
+
+#### ⚙️ &nbsp;Bulk Description Generator
+
+A LangGraph-based pipeline that generates product descriptions at scale and logs structured results into Excel — built for traceable, debuggable agent runs.
+
+**Stack**
+`LangGraph` `Groq API` `LangSmith` `openpyxl`
+
+</td>
+
 <td width="50%" valign="top">
 
 #### 🛡️ &nbsp;Security-Aware Reply Agent
