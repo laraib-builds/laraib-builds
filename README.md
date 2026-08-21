@@ -162,36 +162,6 @@ An experimental agent scaffold exploring layered defenses against prompt injecti
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         NEXT                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🜄 &nbsp; CURRENT EXPERIMENTS</h2>
-
-<p align="center"><i>Things currently taking shape.</i></p>
-
-<div align="center">
-
-`MCP DEBUGGER` ⟶ `AGENTIC RAG` ⟶ `SELF-GRADING SYSTEMS` ⟶ `ANOMALY TRIAGE`
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">🔌<br><b>MCP</b><br><sub>tooling & debugging</sub></td>
-<td align="center">⟶</td>
-<td align="center">🧠<br><b>AGENTS</b><br><sub>multi-hop reasoning</sub></td>
-<td align="center">⟶</td>
-<td align="center">🔎<br><b>RAG</b><br><sub>retrieval systems</sub></td>
-<td align="center">⟶</td>
-<td align="center">🛡️<br><b>SECURITY</b><br><sub>AI-aware defense</sub></td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=6,12,20"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        LEARNING                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
