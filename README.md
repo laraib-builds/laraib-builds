@@ -3,8 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=52&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=80&lines=LARAIB+ZAFAR" alt="Laraib Zafar"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=52&fontAlignY=55&font=VT323"/>
 
 <br>
 
