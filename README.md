@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://github.com/laraib-builds"><img src="https://img.shields.io/badge/GITHUB-031419?style=for-the-badge&logo=github&logoColor=E6FFFA&labelColor=031419"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-031419?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=031419"/></a>
+<a href="www.linkedin.com/in/laraib-zafar-98a804413"><img src="https://img.shields.io/badge/LINKEDIN-031419?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=031419"/></a>
 <a href="mailto:zeeen0597@gmail.com"><img src="https://img.shields.io/badge/EMAIL-031419?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=031419"/></a>
 
 </div>
@@ -279,7 +279,7 @@ LEARN &nbsp;⟶&nbsp; BUILD &nbsp;⟶&nbsp; BREAK &nbsp;⟶&nbsp; DEBUG &nbsp;�
 <div align="center">
 
 <a href="https://github.com/laraib-builds"><img src="https://img.shields.io/badge/GITHUB-0A2A2E?style=for-the-badge&logo=github&logoColor=E6FFFA"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A2A2E?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
+<a href="www.linkedin.com/in/laraib-zafar-98a804413"><img src="https://img.shields.io/badge/LINKEDIN-0A2A2E?style=for-the-badge&logo=linkedin&logoColor=2DD4BF"/></a>
 <a href="mailto:zeeen0597@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A2A2E?style=for-the-badge&logo=gmail&logoColor=2DD4BF"/></a>
 
 <sub>Still learning. Still building. Still becoming.</sub>
