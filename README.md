@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=52&fontAlignY=55&font=VT323"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hi,%20I'm%20LARAIB%20ZAFAR&fontColor=FFFFFF&fontSize=52&fontAlignY=55&font=VT323"/>
 
 <br>
 
