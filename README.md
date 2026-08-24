@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&height=60&lines=LARAIB+ZAFAR" alt="Laraib Zafar"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=600&height=70&lines=LARAIB+ZAFAR" alt="Laraib Zafar"/>
 
 <br>
 
